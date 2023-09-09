@@ -1,4 +1,4 @@
-"Creating a Token"
+###Creating a Token
 Making a contract using the functions, mapping and conditional statements in solidity.
 
 ## Description
